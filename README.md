@@ -1,14 +1,15 @@
 # Puzzle-Game-With-GUI
-
+HOW TO RUN THE GAME
+  - Open the project and run the "TextAdventure.java" file
 GAME KEY
-  '#' = Wall
-  '-' = Path that you can move on
-  'X' = Guards
-  'P' = Player (You)
-  'K' = Key
-  '//' = Doors
-  'o' = Planks
-  'e' = Exit
+  - '#' = Wall
+  - '-' = Path that you can move on
+  - 'X' = Guards
+  - 'P' = Player (You)
+  - 'K' = Key
+  - '//' = Doors
+  - 'o' = Planks
+  - 'e' = Exit
   
 GAME RULES 
   - You need to find the right exit to win the game and break out of the prison.
